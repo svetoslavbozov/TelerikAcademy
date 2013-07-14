@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\bin\Debug\_05.FindMaxIncreasingSequence.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\bin\Debug\_05.FindMaxIncreasingSequence.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\bin\Debug\_05.FindMaxIncreasingSequence.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\obj\Debug\_05.FindMaxIncreasingSequence.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\obj\Debug\_05.FindMaxIncreasingSequence.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\bin\Debug\_05.FindMaxIncreasingSequence.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\obj\Debug\_05.FindMaxIncreasingSequence.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\05. FindMaxIncreasingSequence\obj\Debug\_05.FindMaxIncreasingSequence.pdb

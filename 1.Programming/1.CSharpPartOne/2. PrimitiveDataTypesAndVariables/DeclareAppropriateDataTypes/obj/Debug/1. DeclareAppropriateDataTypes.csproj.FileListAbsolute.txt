@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareAppropriateDataTypes\bin\Debug\DeclareAppropriateDataTypes.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareAppropriateDataTypes\bin\Debug\DeclareAppropriateDataTypes.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareAppropriateDataTypes\bin\Debug\DeclareAppropriateDataTypes.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareAppropriateDataTypes\obj\Debug\1. DeclareAppropriateDataTypes.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareAppropriateDataTypes\obj\Debug\DeclareAppropriateDataTypes.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareAppropriateDataTypes\obj\Debug\DeclareAppropriateDataTypes.pdb

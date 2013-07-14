@@ -1,0 +1,6 @@
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.csprojResolveAssemblyReference.cache
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.pdb

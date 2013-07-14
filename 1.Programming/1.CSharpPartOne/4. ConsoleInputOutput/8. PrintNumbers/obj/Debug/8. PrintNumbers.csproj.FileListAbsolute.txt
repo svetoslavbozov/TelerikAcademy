@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\8. PrintNumbers\bin\Debug\_8.PrintNumbers.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\8. PrintNumbers\bin\Debug\_8.PrintNumbers.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\8. PrintNumbers\bin\Debug\_8.PrintNumbers.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\8. PrintNumbers\obj\Debug\8. PrintNumbers.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\8. PrintNumbers\obj\Debug\_8.PrintNumbers.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\8. PrintNumbers\obj\Debug\_8.PrintNumbers.pdb

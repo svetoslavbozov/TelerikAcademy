@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\8. DeclareStringsWithAndWithoutQuotes\bin\Debug\_8.DeclareStringsWithAndWithoutQuotes.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\8. DeclareStringsWithAndWithoutQuotes\bin\Debug\_8.DeclareStringsWithAndWithoutQuotes.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\8. DeclareStringsWithAndWithoutQuotes\bin\Debug\_8.DeclareStringsWithAndWithoutQuotes.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\8. DeclareStringsWithAndWithoutQuotes\obj\Debug\_8.DeclareStringsWithAndWithoutQuotes.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\8. DeclareStringsWithAndWithoutQuotes\obj\Debug\_8.DeclareStringsWithAndWithoutQuotes.pdb

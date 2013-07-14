@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\11. CheckSelectedBitValueInInteger\bin\Debug\_11.CheckSelectedBitValueInInteger.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\11. CheckSelectedBitValueInInteger\bin\Debug\_11.CheckSelectedBitValueInInteger.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\11. CheckSelectedBitValueInInteger\bin\Debug\_11.CheckSelectedBitValueInInteger.pdb
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\11. CheckSelectedBitValueInInteger\obj\Debug\_11.CheckSelectedBitValueInInteger.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\11. CheckSelectedBitValueInInteger\obj\Debug\_11.CheckSelectedBitValueInInteger.pdb

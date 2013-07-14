@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\obj\Debug\CompareFloatingPointNumbers.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\obj\Debug\CompareFloatingPointNumbers.pdb

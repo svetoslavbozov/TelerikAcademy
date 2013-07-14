@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\2. CalculateCirclesAreaAndPerimeter\bin\Debug\_2.CalculateCirclesAreaAndPerimeter.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\2. CalculateCirclesAreaAndPerimeter\bin\Debug\_2.CalculateCirclesAreaAndPerimeter.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\2. CalculateCirclesAreaAndPerimeter\bin\Debug\_2.CalculateCirclesAreaAndPerimeter.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\2. CalculateCirclesAreaAndPerimeter\obj\Debug\_2.CalculateCirclesAreaAndPerimeter.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\2. CalculateCirclesAreaAndPerimeter\obj\Debug\_2.CalculateCirclesAreaAndPerimeter.pdb

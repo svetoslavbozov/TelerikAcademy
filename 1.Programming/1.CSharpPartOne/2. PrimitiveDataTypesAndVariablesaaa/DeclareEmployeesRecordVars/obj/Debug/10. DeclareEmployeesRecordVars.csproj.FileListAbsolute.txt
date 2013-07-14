@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareEmployeesRecordVars\bin\Debug\DeclareEmployeesRecordVars.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareEmployeesRecordVars\bin\Debug\DeclareEmployeesRecordVars.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareEmployeesRecordVars\bin\Debug\DeclareEmployeesRecordVars.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareEmployeesRecordVars\obj\Debug\DeclareEmployeesRecordVars.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclareEmployeesRecordVars\obj\Debug\DeclareEmployeesRecordVars.pdb

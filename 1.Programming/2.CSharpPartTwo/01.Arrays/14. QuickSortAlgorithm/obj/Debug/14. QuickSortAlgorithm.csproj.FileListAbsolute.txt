@@ -1,0 +1,6 @@
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\14. QuickSortAlgorithm\bin\Debug\_14.QuickSortAlgorithm.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\14. QuickSortAlgorithm\obj\Debug\14. QuickSortAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\14. QuickSortAlgorithm\obj\Debug\_14.QuickSortAlgorithm.pdb

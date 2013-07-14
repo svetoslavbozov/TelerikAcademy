@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\1. CheckOddEven\bin\Debug\_1.CheckOddEven.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\1. CheckOddEven\bin\Debug\_1.CheckOddEven.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\1. CheckOddEven\bin\Debug\_1.CheckOddEven.pdb
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\1. CheckOddEven\obj\Debug\1. CheckOddEven.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\1. CheckOddEven\obj\Debug\_1.CheckOddEven.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\1. CheckOddEven\obj\Debug\_1.CheckOddEven.pdb

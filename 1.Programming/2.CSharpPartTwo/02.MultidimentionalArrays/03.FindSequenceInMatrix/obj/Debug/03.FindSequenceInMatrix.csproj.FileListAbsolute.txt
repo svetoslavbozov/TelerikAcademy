@@ -1,0 +1,6 @@
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\03.FindSequenceInMatrix\bin\Debug\03.FindSequenceInMatrix.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\03.FindSequenceInMatrix\bin\Debug\03.FindSequenceInMatrix.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\03.FindSequenceInMatrix\bin\Debug\03.FindSequenceInMatrix.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\03.FindSequenceInMatrix\obj\Debug\03.FindSequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\03.FindSequenceInMatrix\obj\Debug\03.FindSequenceInMatrix.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\03.FindSequenceInMatrix\obj\Debug\03.FindSequenceInMatrix.pdb

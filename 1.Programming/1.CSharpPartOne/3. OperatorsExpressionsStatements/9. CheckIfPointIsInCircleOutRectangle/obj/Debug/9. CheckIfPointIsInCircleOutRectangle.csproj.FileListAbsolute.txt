@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\9. CheckIfPointIsInCircleOutRectangle\bin\Debug\_9.CheckIfPointIsInCircleOutRectangle.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\9. CheckIfPointIsInCircleOutRectangle\bin\Debug\_9.CheckIfPointIsInCircleOutRectangle.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\9. CheckIfPointIsInCircleOutRectangle\bin\Debug\_9.CheckIfPointIsInCircleOutRectangle.pdb
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\9. CheckIfPointIsInCircleOutRectangle\obj\Debug\_9.CheckIfPointIsInCircleOutRectangle.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\9. CheckIfPointIsInCircleOutRectangle\obj\Debug\_9.CheckIfPointIsInCircleOutRectangle.pdb

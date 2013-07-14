@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\5. PrintTheBiggerInteger\bin\Debug\_5.PrintTheBiggerInteger.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\5. PrintTheBiggerInteger\bin\Debug\_5.PrintTheBiggerInteger.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\5. PrintTheBiggerInteger\bin\Debug\_5.PrintTheBiggerInteger.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\5. PrintTheBiggerInteger\obj\Debug\_5.PrintTheBiggerInteger.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\5. PrintTheBiggerInteger\obj\Debug\_5.PrintTheBiggerInteger.pdb

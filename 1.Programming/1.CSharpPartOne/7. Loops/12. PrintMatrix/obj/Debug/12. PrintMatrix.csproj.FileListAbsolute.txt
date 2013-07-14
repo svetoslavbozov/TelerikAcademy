@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\12. PrintMatrix\obj\Debug\_12.PrintMatrix.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\12. PrintMatrix\obj\Debug\_12.PrintMatrix.pdb

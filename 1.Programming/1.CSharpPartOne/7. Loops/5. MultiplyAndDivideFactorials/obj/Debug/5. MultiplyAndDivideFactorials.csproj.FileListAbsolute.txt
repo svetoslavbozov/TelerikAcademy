@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\5. MultiplyAndDivideFactorials\bin\Debug\_5.MultiplyAndDivideFactorials.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\5. MultiplyAndDivideFactorials\bin\Debug\_5.MultiplyAndDivideFactorials.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\5. MultiplyAndDivideFactorials\bin\Debug\_5.MultiplyAndDivideFactorials.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\5. MultiplyAndDivideFactorials\obj\Debug\_5.MultiplyAndDivideFactorials.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\5. MultiplyAndDivideFactorials\obj\Debug\_5.MultiplyAndDivideFactorials.pdb

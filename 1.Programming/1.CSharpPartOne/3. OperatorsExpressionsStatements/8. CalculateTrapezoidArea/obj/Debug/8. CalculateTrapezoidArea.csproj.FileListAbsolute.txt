@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\8. CalculateTrapezoidArea\bin\Debug\_8.CalculateTrapezoidArea.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\8. CalculateTrapezoidArea\bin\Debug\_8.CalculateTrapezoidArea.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\8. CalculateTrapezoidArea\bin\Debug\_8.CalculateTrapezoidArea.pdb
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\8. CalculateTrapezoidArea\obj\Debug\_8.CalculateTrapezoidArea.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\8. CalculateTrapezoidArea\obj\Debug\_8.CalculateTrapezoidArea.pdb

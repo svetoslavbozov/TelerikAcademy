@@ -1,0 +1,6 @@
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\09. FindMostFrequentNum\bin\Debug\_09.FindMostFrequentNum.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\09. FindMostFrequentNum\bin\Debug\_09.FindMostFrequentNum.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\09. FindMostFrequentNum\bin\Debug\_09.FindMostFrequentNum.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\09. FindMostFrequentNum\obj\Debug\09. FindMostFrequentNum.csprojResolveAssemblyReference.cache
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\09. FindMostFrequentNum\obj\Debug\_09.FindMostFrequentNum.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\09. FindMostFrequentNum\obj\Debug\_09.FindMostFrequentNum.pdb

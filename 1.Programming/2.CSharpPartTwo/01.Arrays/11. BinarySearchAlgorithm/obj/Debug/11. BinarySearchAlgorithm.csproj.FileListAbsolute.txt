@@ -1,0 +1,6 @@
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\11. BinarySearchAlgorithm\obj\Debug\11. BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\11. BinarySearchAlgorithm\bin\Debug\_11.BinarySearchAlgorithm.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\11. BinarySearchAlgorithm\obj\Debug\_11.BinarySearchAlgorithm.pdb

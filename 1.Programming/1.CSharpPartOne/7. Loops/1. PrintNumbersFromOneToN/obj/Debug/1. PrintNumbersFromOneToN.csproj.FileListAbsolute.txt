@@ -1,0 +1,6 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\1. PrintNumbersFromOneToN\bin\Debug\_1.PrintNumbersFromOneToN.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\1. PrintNumbersFromOneToN\bin\Debug\_1.PrintNumbersFromOneToN.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\1. PrintNumbersFromOneToN\bin\Debug\_1.PrintNumbersFromOneToN.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\1. PrintNumbersFromOneToN\obj\Debug\1. PrintNumbersFromOneToN.csprojResolveAssemblyReference.cache
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\1. PrintNumbersFromOneToN\obj\Debug\_1.PrintNumbersFromOneToN.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\1. PrintNumbersFromOneToN\obj\Debug\_1.PrintNumbersFromOneToN.pdb

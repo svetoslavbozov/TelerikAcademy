@@ -1,0 +1,6 @@
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\15. FindPrimeNumbers\bin\Debug\_15.FindPrimeNumbers.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\15. FindPrimeNumbers\bin\Debug\_15.FindPrimeNumbers.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\15. FindPrimeNumbers\bin\Debug\_15.FindPrimeNumbers.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\15. FindPrimeNumbers\obj\Debug\15. FindPrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\15. FindPrimeNumbers\obj\Debug\_15.FindPrimeNumbers.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\15. FindPrimeNumbers\obj\Debug\_15.FindPrimeNumbers.pdb

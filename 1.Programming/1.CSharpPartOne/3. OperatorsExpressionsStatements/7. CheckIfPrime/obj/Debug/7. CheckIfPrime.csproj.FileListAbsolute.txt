@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\7. CheckIfPrime\bin\Debug\_7.CheckIfPrime.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\7. CheckIfPrime\bin\Debug\_7.CheckIfPrime.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\7. CheckIfPrime\bin\Debug\_7.CheckIfPrime.pdb
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\7. CheckIfPrime\obj\Debug\_7.CheckIfPrime.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\7. CheckIfPrime\obj\Debug\_7.CheckIfPrime.pdb

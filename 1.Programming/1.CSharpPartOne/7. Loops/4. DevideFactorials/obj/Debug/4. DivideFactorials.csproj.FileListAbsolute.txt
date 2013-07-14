@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\4. DevideFactorials\bin\Debug\_4.DevideFactorials.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\4. DevideFactorials\bin\Debug\_4.DevideFactorials.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\4. DevideFactorials\bin\Debug\_4.DevideFactorials.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\4. DevideFactorials\obj\Debug\_4.DevideFactorials.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\4. DevideFactorials\obj\Debug\_4.DevideFactorials.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\9. SubsetSumProblem\bin\Debug\_9.SubsetSumProblem.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\9. SubsetSumProblem\bin\Debug\_9.SubsetSumProblem.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\9. SubsetSumProblem\bin\Debug\_9.SubsetSumProblem.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\9. SubsetSumProblem\obj\Debug\_9.SubsetSumProblem.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\9. SubsetSumProblem\obj\Debug\_9.SubsetSumProblem.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

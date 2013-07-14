@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\9. PrintNumbersSequence\bin\Debug\_9.PrintNumbersSequence.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\9. PrintNumbersSequence\bin\Debug\_9.PrintNumbersSequence.exe
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\9. PrintNumbersSequence\bin\Debug\_9.PrintNumbersSequence.pdb
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\9. PrintNumbersSequence\obj\Debug\_9.PrintNumbersSequence.exe
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\9. PrintNumbersSequence\obj\Debug\_9.PrintNumbersSequence.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\4. DeclareIntInHexFormat\bin\Debug\_4.DeclareIntInHexFormat.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\4. DeclareIntInHexFormat\bin\Debug\_4.DeclareIntInHexFormat.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\4. DeclareIntInHexFormat\bin\Debug\_4.DeclareIntInHexFormat.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\4. DeclareIntInHexFormat\obj\Debug\_4.DeclareIntInHexFormat.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\4. DeclareIntInHexFormat\obj\Debug\_4.DeclareIntInHexFormat.pdb

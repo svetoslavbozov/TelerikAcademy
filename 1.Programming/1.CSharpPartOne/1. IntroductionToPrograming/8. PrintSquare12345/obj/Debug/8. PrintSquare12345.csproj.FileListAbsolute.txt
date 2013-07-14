@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\8. PrintSquare12345\bin\Debug\_8.PrintSquare12345.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\8. PrintSquare12345\bin\Debug\_8.PrintSquare12345.exe
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\8. PrintSquare12345\bin\Debug\_8.PrintSquare12345.pdb
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\8. PrintSquare12345\obj\Debug\_8.PrintSquare12345.exe
+c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\8. PrintSquare12345\obj\Debug\_8.PrintSquare12345.pdb

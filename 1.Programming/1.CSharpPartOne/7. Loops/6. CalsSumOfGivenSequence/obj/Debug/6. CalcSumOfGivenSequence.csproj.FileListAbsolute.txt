@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\6. CalsSumOfGivenSequence\bin\Debug\_6.CalsSumOfGivenSequence.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\6. CalsSumOfGivenSequence\bin\Debug\_6.CalsSumOfGivenSequence.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\6. CalsSumOfGivenSequence\bin\Debug\_6.CalsSumOfGivenSequence.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\6. CalsSumOfGivenSequence\obj\Debug\_6.CalsSumOfGivenSequence.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\6. CalsSumOfGivenSequence\obj\Debug\_6.CalsSumOfGivenSequence.pdb

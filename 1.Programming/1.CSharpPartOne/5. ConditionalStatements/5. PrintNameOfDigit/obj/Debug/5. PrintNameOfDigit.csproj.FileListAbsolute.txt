@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\5. PrintNameOfDigit\bin\Debug\_5.PrintNameOfDigit.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\5. PrintNameOfDigit\bin\Debug\_5.PrintNameOfDigit.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\5. PrintNameOfDigit\bin\Debug\_5.PrintNameOfDigit.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\5. PrintNameOfDigit\obj\Debug\_5.PrintNameOfDigit.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\5. PrintNameOfDigit\obj\Debug\_5.PrintNameOfDigit.pdb

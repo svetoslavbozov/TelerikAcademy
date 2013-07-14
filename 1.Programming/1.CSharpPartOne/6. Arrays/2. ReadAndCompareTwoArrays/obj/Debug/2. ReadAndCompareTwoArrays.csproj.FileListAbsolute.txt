@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\2. ReadAndCompareTwoArrays\bin\Debug\_2.ReadAndCompareTwoArrays.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\2. ReadAndCompareTwoArrays\bin\Debug\_2.ReadAndCompareTwoArrays.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\2. ReadAndCompareTwoArrays\bin\Debug\_2.ReadAndCompareTwoArrays.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\2. ReadAndCompareTwoArrays\obj\Debug\_2.ReadAndCompareTwoArrays.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\2. ReadAndCompareTwoArrays\obj\Debug\_2.ReadAndCompareTwoArrays.pdb

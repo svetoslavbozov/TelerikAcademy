@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\7. EnterNumbersCalcSum\bin\Debug\_7.EnterNumbersCalcSum.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\7. EnterNumbersCalcSum\bin\Debug\_7.EnterNumbersCalcSum.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\7. EnterNumbersCalcSum\bin\Debug\_7.EnterNumbersCalcSum.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\7. EnterNumbersCalcSum\obj\Debug\_7.EnterNumbersCalcSum.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\7. EnterNumbersCalcSum\obj\Debug\_7.EnterNumbersCalcSum.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\4. CheckIfThirdDigitIs7\bin\Debug\_4.CheckIfThirdDigitIs7.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\4. CheckIfThirdDigitIs7\bin\Debug\_4.CheckIfThirdDigitIs7.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\4. CheckIfThirdDigitIs7\bin\Debug\_4.CheckIfThirdDigitIs7.pdb
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\4. CheckIfThirdDigitIs7\obj\Debug\_4.CheckIfThirdDigitIs7.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\4. CheckIfThirdDigitIs7\obj\Debug\_4.CheckIfThirdDigitIs7.pdb

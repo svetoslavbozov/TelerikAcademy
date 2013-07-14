@@ -1,0 +1,5 @@
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\21. GenerateCombinations\bin\Debug\_21.GenerateCombinations.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\21. GenerateCombinations\bin\Debug\_21.GenerateCombinations.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\21. GenerateCombinations\bin\Debug\_21.GenerateCombinations.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\21. GenerateCombinations\obj\Debug\_21.GenerateCombinations.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\21. GenerateCombinations\obj\Debug\_21.GenerateCombinations.pdb

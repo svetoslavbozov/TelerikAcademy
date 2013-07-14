@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\8. GreatestCommonDivisorEuclidAlgorithm\bin\Debug\_8.GreatestCommonDivisorEuclidAlgorithm.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\8. GreatestCommonDivisorEuclidAlgorithm\bin\Debug\_8.GreatestCommonDivisorEuclidAlgorithm.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\8. GreatestCommonDivisorEuclidAlgorithm\bin\Debug\_8.GreatestCommonDivisorEuclidAlgorithm.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\8. GreatestCommonDivisorEuclidAlgorithm\obj\Debug\_8.GreatestCommonDivisorEuclidAlgorithm.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\8. GreatestCommonDivisorEuclidAlgorithm\obj\Debug\_8.GreatestCommonDivisorEuclidAlgorithm.pdb

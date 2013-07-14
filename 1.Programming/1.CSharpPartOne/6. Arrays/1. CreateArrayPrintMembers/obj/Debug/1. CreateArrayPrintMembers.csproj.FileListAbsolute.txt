@@ -1,0 +1,6 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\1. CreateArrayPrintMembers\bin\Debug\_1.CreateArrayPrintMembers.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\1. CreateArrayPrintMembers\bin\Debug\_1.CreateArrayPrintMembers.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\1. CreateArrayPrintMembers\bin\Debug\_1.CreateArrayPrintMembers.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\1. CreateArrayPrintMembers\obj\Debug\1. CreateArrayPrintMembers.csprojResolveAssemblyReference.cache
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\1. CreateArrayPrintMembers\obj\Debug\_1.CreateArrayPrintMembers.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Arrays\1. CreateArrayPrintMembers\obj\Debug\_1.CreateArrayPrintMembers.pdb

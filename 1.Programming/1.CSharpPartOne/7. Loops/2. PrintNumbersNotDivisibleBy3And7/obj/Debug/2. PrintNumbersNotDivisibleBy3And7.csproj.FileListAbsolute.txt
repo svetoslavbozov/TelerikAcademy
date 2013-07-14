@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\2. PrintNumbersNotDivisibleBy3And7\bin\Debug\_2.PrintNumbersNotDivisibleBy3And7.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\2. PrintNumbersNotDivisibleBy3And7\bin\Debug\_2.PrintNumbersNotDivisibleBy3And7.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\2. PrintNumbersNotDivisibleBy3And7\bin\Debug\_2.PrintNumbersNotDivisibleBy3And7.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\2. PrintNumbersNotDivisibleBy3And7\obj\Debug\_2.PrintNumbersNotDivisibleBy3And7.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\2. PrintNumbersNotDivisibleBy3And7\obj\Debug\_2.PrintNumbersNotDivisibleBy3And7.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\A-nacci\bin\Debug\A-nacci.exe.config
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\A-nacci\bin\Debug\A-nacci.exe
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\A-nacci\bin\Debug\A-nacci.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\A-nacci\obj\Debug\A-nacci.exe
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\A-nacci\obj\Debug\A-nacci.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\A-nacci\bin\Debug\A-nacci.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\A-nacci\obj\Debug\A-nacci.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\A-nacci\obj\Debug\A-nacci.pdb

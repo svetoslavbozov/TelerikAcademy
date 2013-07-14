@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\2. CheckIfDevisibleBy5And7\bin\Debug\_2.CheckIfDevisibleBy5And7.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\2. CheckIfDevisibleBy5And7\bin\Debug\_2.CheckIfDevisibleBy5And7.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\2. CheckIfDevisibleBy5And7\bin\Debug\_2.CheckIfDevisibleBy5And7.pdb
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\2. CheckIfDevisibleBy5And7\obj\Debug\_2.CheckIfDevisibleBy5And7.exe
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\2. CheckIfDevisibleBy5And7\obj\Debug\_2.CheckIfDevisibleBy5And7.pdb

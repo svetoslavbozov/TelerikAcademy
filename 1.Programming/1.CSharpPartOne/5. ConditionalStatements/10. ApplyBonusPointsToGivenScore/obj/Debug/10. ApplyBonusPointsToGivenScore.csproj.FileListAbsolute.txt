@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\10. ApplyBonusPointsToGivenScore\bin\Debug\_10.ApplyBonusPointsToGivenScore.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\10. ApplyBonusPointsToGivenScore\bin\Debug\_10.ApplyBonusPointsToGivenScore.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\10. ApplyBonusPointsToGivenScore\bin\Debug\_10.ApplyBonusPointsToGivenScore.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\10. ApplyBonusPointsToGivenScore\obj\Debug\10. ApplyBonusPointsToGivenScore.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\10. ApplyBonusPointsToGivenScore\obj\Debug\_10.ApplyBonusPointsToGivenScore.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\10. ApplyBonusPointsToGivenScore\obj\Debug\_10.ApplyBonusPointsToGivenScore.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Lines\bin\Debug\Lines.exe.config
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Lines\bin\Debug\Lines.exe
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Lines\bin\Debug\Lines.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Lines\obj\Debug\Lines.exe
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Lines\obj\Debug\Lines.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Lines\bin\Debug\Lines.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Lines\obj\Debug\Lines.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Lines\obj\Debug\Lines.pdb

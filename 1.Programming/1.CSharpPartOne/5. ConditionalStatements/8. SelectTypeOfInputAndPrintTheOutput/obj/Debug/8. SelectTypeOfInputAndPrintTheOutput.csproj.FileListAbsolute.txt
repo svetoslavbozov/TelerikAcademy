@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\8. SelectTypeOfInputAndPrintTheOutput\bin\Debug\_8.SelectTypeOfInputAndPrintTheOutput.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\8. SelectTypeOfInputAndPrintTheOutput\bin\Debug\_8.SelectTypeOfInputAndPrintTheOutput.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\8. SelectTypeOfInputAndPrintTheOutput\bin\Debug\_8.SelectTypeOfInputAndPrintTheOutput.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\8. SelectTypeOfInputAndPrintTheOutput\obj\Debug\8. SelectTypeOfInputAndPrintTheOutput.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\8. SelectTypeOfInputAndPrintTheOutput\obj\Debug\_8.SelectTypeOfInputAndPrintTheOutput.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\8. SelectTypeOfInputAndPrintTheOutput\obj\Debug\_8.SelectTypeOfInputAndPrintTheOutput.pdb

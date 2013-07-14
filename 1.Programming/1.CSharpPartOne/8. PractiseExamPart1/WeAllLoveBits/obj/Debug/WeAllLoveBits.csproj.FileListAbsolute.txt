@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\WeAllLoveBits\obj\Debug\WeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

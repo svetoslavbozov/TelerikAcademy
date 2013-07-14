@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\9. PrintTriangleWithCopyrightSymbol\bin\Debug\_9.PrintTriangleWithCopyrightSymbol.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\9. PrintTriangleWithCopyrightSymbol\bin\Debug\_9.PrintTriangleWithCopyrightSymbol.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\9. PrintTriangleWithCopyrightSymbol\bin\Debug\_9.PrintTriangleWithCopyrightSymbol.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\9. PrintTriangleWithCopyrightSymbol\obj\Debug\_9.PrintTriangleWithCopyrightSymbol.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\9. PrintTriangleWithCopyrightSymbol\obj\Debug\_9.PrintTriangleWithCopyrightSymbol.pdb

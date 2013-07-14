@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValues\bin\Debug\_13.AssignNullValues.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValues\bin\Debug\_13.AssignNullValues.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValues\bin\Debug\_13.AssignNullValues.pdb
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValues\obj\Debug\_13.AssignNullValues.exe
+c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValues\obj\Debug\_13.AssignNullValues.pdb

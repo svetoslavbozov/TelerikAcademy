@@ -1,0 +1,1 @@
+c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config

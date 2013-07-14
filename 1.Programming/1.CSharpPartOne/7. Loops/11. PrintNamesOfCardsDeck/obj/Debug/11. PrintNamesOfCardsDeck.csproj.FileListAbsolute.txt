@@ -1,0 +1,5 @@
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\11. PrintNamesOfCardsDeck\bin\Debug\_11.PrintNamesOfCardsDeck.exe.config
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\11. PrintNamesOfCardsDeck\bin\Debug\_11.PrintNamesOfCardsDeck.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\11. PrintNamesOfCardsDeck\bin\Debug\_11.PrintNamesOfCardsDeck.pdb
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\11. PrintNamesOfCardsDeck\obj\Debug\_11.PrintNamesOfCardsDeck.exe
+c:\Users\admin\documents\visual studio 2012\Projects\Loops\11. PrintNamesOfCardsDeck\obj\Debug\_11.PrintNamesOfCardsDeck.pdb

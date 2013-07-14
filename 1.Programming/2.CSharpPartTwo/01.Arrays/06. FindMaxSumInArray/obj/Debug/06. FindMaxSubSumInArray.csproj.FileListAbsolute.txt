@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\bin\Debug\_06.FindMaxSumInArray.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\obj\Debug\_06.FindMaxSumInArray.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\obj\Debug\_06.FindMaxSumInArray.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\bin\Debug\_06.FindMaxSumInArray.exe.config
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\obj\Debug\_06.FindMaxSumInArray.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\obj\Debug\_06.FindMaxSumInArray.pdb
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\bin\Debug\_06.FindMaxSumInArray.exe
+C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\06. FindMaxSumInArray\bin\Debug\_06.FindMaxSumInArray.pdb
