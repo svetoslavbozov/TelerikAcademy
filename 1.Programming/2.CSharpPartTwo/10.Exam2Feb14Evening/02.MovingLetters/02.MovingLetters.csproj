@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>f1f08866-3b2b-4e97-a6d5-6381a756a664</ProjectGuid>
+    <ProjectGuid>{013637F2-D441-4797-AA12-C929C8931BAA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_02.MovingLetters</RootNamespace>
-    <AssemblyName>_02.MovingLetters</AssemblyName>
+    <AssemblyName>02.MovingLetters</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
