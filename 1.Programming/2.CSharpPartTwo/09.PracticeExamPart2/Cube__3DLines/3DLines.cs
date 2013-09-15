@@ -26,13 +26,13 @@ namespace Cube__3DLines
 
             short[] dimentions = Console.ReadLine().Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries).Select(x => Convert.ToInt16(x)).ToArray();
 
-            W = width;
-            H = height;
-            D = depth;
+            W = dimentions[0];
+            H = dimentions[1];
+            D = dimentions[2];
 
-            cube = new char[width, height, dimentions[2]];
+            cube = new char[dimentions[0], dimentions[1], dimentions[2]];
 
-            for (int h = 0; h < height; h++)
+            for (int h = 0; h < dimentions[1]; h++)
             {
                 string[] line = Console.ReadLine().Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
 
@@ -40,7 +40,7 @@ namespace Cube__3DLines
                 {
                     char[] current = line[d].ToCharArray();
 
-                    for (int w = 0; w < width; w++)
+                    for (int w = 0; w < dimentions[0]; w++)
                     {
                         cube[w, h, d] = current[w];
                     }

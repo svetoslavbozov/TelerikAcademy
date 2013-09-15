@@ -75,7 +75,7 @@ class BasicLanguage
 
                     repeat = 1;
                 }
-                else if (currentLine[j].StartsWith("EXIT"))
+                else if (currentCommand.StartsWith("EXIT"))
                 {
                     Console.Write(result);
                     return;

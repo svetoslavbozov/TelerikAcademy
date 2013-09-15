@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>e571d01b-adac-439e-9a6a-2755649ae142</ProjectGuid>
+    <ProjectGuid>{7A4ABCAD-FDF3-44EF-A8FF-FCC9075B1D52}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_5.Task5</RootNamespace>
-    <AssemblyName>_5.Task5</AssemblyName>
+    <AssemblyName>5.Task5</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

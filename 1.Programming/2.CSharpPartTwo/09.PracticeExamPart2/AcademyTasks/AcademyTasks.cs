@@ -31,6 +31,7 @@ namespace AcademyTasks
                     minPleasantness = array[i];
                 }
 
+
                 if ((maxPleasantness - minPleasantness) >= pleasantness)
                 {
                     found = true;
@@ -40,7 +41,7 @@ namespace AcademyTasks
 
             if (found)
             {
-                Console.WriteLine((counter/2) + 1);
+                Console.WriteLine((counter / 2) + 1);
             }
             else
             {

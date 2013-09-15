@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.IO;
 
 namespace AirplaneDrinks
 {
@@ -9,6 +10,11 @@ namespace AirplaneDrinks
     {
         static void Main()
         {
+            if (File.Exists("input1.txt"))
+            {
+                Console.SetIn(new StreamReader("input1.txt"));
+            }
+
             int seats = int.Parse(Console.ReadLine());
 
             int teaCount = int.Parse(Console.ReadLine());
@@ -71,11 +77,13 @@ namespace AirplaneDrinks
             }
             if (countCoffee != 0)
             {
-                result += lastCoffee * 2; result += 47;
+                result += lastCoffee * 2; 
+                result += 47;
             }
             if (countTea != 0)
             {
-                result += lastTea * 2; result += 47;
+                result += lastTea * 2; 
+                result += 47;
             }
 
             return result;
