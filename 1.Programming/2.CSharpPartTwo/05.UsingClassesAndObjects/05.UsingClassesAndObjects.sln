@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20617.1 PREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.UsingClassesAndObjects", "05.UsingClassesAndObjects\05.UsingClassesAndObjects.csproj", "{3847A363-AE33-4A10-B0FD-3B21ADE09D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3847A363-AE33-4A10-B0FD-3B21ADE09D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3847A363-AE33-4A10-B0FD-3B21ADE09D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3847A363-AE33-4A10-B0FD-3B21ADE09D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3847A363-AE33-4A10-B0FD-3B21ADE09D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
