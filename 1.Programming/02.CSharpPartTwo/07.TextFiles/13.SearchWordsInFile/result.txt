@@ -1,0 +1,3 @@
+4  -  words
+3  -  file
+1  -  that
