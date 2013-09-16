@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\6. PrintYourFirstAndLastName\bin\Debug\_6.PrintYourFirstAndLastName.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\6. PrintYourFirstAndLastName\bin\Debug\_6.PrintYourFirstAndLastName.exe
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\6. PrintYourFirstAndLastName\bin\Debug\_6.PrintYourFirstAndLastName.pdb
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\6. PrintYourFirstAndLastName\obj\Debug\_6.PrintYourFirstAndLastName.exe
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\6. PrintYourFirstAndLastName\obj\Debug\_6.PrintYourFirstAndLastName.pdb

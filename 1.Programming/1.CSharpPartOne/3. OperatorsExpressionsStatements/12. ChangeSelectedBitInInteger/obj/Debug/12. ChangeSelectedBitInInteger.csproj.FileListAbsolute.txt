@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\12. ChangeSelectedBitInInteger\bin\Debug\_12.ChangeSelectedBitInInteger.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\12. ChangeSelectedBitInInteger\bin\Debug\_12.ChangeSelectedBitInInteger.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\12. ChangeSelectedBitInInteger\bin\Debug\_12.ChangeSelectedBitInInteger.pdb
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\12. ChangeSelectedBitInInteger\obj\Debug\12. ChangeSelectedBitInInteger.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\12. ChangeSelectedBitInInteger\obj\Debug\_12.ChangeSelectedBitInInteger.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\12. ChangeSelectedBitInInteger\obj\Debug\_12.ChangeSelectedBitInInteger.pdb

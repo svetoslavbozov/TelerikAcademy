@@ -1,9 +1,0 @@
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\DancingBits\bin\Debug\DancingBits.exe.config
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\DancingBits\obj\Debug\DancingBits.csprojResolveAssemblyReference.cache
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\DancingBits\bin\Debug\DancingBits.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\DancingBits\bin\Debug\DancingBits.pdb
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\DancingBits\obj\Debug\DancingBits.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\DancingBits\obj\Debug\DancingBits.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DancingBits\bin\Debug\DancingBits.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DancingBits\obj\Debug\DancingBits.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DancingBits\obj\Debug\DancingBits.pdb

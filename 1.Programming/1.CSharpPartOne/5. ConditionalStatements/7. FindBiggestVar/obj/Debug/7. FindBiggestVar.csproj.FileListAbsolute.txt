@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\7. FindBiggestVar\bin\Debug\_7.FindBiggestVar.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\7. FindBiggestVar\bin\Debug\_7.FindBiggestVar.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\7. FindBiggestVar\bin\Debug\_7.FindBiggestVar.pdb
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\7. FindBiggestVar\obj\Debug\_7.FindBiggestVar.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\7. FindBiggestVar\obj\Debug\_7.FindBiggestVar.pdb

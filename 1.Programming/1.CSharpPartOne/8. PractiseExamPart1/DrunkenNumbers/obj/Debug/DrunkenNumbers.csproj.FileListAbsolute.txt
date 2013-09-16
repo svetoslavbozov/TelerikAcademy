@@ -1,8 +1,0 @@
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\1.CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\1.CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\1.CSharpPartOne\8. PractiseExamPart1\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

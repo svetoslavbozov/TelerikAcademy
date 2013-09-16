@@ -1,6 +1,0 @@
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\16. FindSubsetSum\bin\Debug\_16.FindSubsetSum.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\16. FindSubsetSum\bin\Debug\_16.FindSubsetSum.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\16. FindSubsetSum\bin\Debug\_16.FindSubsetSum.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\16. FindSubsetSum\obj\Debug\16. FindSubsetSum.csprojResolveAssemblyReference.cache
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\16. FindSubsetSum\obj\Debug\_16.FindSubsetSum.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\16. FindSubsetSum\obj\Debug\_16.FindSubsetSum.pdb

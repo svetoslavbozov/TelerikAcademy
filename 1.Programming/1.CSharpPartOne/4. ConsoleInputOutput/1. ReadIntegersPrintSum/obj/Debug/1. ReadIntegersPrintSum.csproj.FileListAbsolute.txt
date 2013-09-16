@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\1. ReadIntegersPrintSum\bin\Debug\_1.ReadIntegersPrintSum.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\1. ReadIntegersPrintSum\bin\Debug\_1.ReadIntegersPrintSum.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\1. ReadIntegersPrintSum\bin\Debug\_1.ReadIntegersPrintSum.pdb
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\1. ReadIntegersPrintSum\obj\Debug\1. ReadIntegersPrintSum.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\1. ReadIntegersPrintSum\obj\Debug\_1.ReadIntegersPrintSum.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\1. ReadIntegersPrintSum\obj\Debug\_1.ReadIntegersPrintSum.pdb

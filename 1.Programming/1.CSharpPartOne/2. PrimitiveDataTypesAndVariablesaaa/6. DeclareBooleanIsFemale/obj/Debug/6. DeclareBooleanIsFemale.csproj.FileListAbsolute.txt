@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\6. DeclareBooleanIsFemale\bin\Debug\_6.DeclareBooleanIsFemale.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\6. DeclareBooleanIsFemale\bin\Debug\_6.DeclareBooleanIsFemale.exe
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\6. DeclareBooleanIsFemale\bin\Debug\_6.DeclareBooleanIsFemale.pdb
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\6. DeclareBooleanIsFemale\obj\Debug\_6.DeclareBooleanIsFemale.exe
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\6. DeclareBooleanIsFemale\obj\Debug\_6.DeclareBooleanIsFemale.pdb

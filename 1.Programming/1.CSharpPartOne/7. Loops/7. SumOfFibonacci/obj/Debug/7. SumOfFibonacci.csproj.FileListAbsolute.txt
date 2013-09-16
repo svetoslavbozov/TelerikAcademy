@@ -1,6 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\7. SumOfFibonacci\bin\Debug\_7.SumOfFibonacci.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\7. SumOfFibonacci\obj\Debug\7. SumOfFibonacci.csprojResolveAssemblyReference.cache
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\7. SumOfFibonacci\bin\Debug\_7.SumOfFibonacci.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\7. SumOfFibonacci\bin\Debug\_7.SumOfFibonacci.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\7. SumOfFibonacci\obj\Debug\_7.SumOfFibonacci.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\7. SumOfFibonacci\obj\Debug\_7.SumOfFibonacci.pdb

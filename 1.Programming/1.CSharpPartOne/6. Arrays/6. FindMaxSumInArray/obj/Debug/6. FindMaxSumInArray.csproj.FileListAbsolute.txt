@@ -1,6 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\6. FindMaxSumInArray\bin\Debug\_6.FindMaxSumInArray.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\6. FindMaxSumInArray\bin\Debug\_6.FindMaxSumInArray.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\6. FindMaxSumInArray\bin\Debug\_6.FindMaxSumInArray.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\6. FindMaxSumInArray\obj\Debug\6. FindMaxSumInArray.csprojResolveAssemblyReference.cache
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\6. FindMaxSumInArray\obj\Debug\_6.FindMaxSumInArray.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\6. FindMaxSumInArray\obj\Debug\_6.FindMaxSumInArray.pdb

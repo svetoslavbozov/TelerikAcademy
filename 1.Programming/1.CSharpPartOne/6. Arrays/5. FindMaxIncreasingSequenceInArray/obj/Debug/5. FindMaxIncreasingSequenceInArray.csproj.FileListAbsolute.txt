@@ -1,6 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\5. FindMaxIncreasingSequenceInArray\bin\Debug\_5.FindMaxIncreasingSequenceInArray.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\5. FindMaxIncreasingSequenceInArray\bin\Debug\_5.FindMaxIncreasingSequenceInArray.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\5. FindMaxIncreasingSequenceInArray\bin\Debug\_5.FindMaxIncreasingSequenceInArray.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\5. FindMaxIncreasingSequenceInArray\obj\Debug\5. FindMaxIncreasingSequenceInArray.csprojResolveAssemblyReference.cache
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\5. FindMaxIncreasingSequenceInArray\obj\Debug\_5.FindMaxIncreasingSequenceInArray.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\5. FindMaxIncreasingSequenceInArray\obj\Debug\_5.FindMaxIncreasingSequenceInArray.pdb

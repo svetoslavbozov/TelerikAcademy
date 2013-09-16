@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\10. CalcSumWithAccuracy\bin\Debug\_10.CalcSumWithAccuracy.exe.config
-C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10. CalcSumWithAccuracy\bin\Debug\_10.CalcSumWithAccuracy.exe
-C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10. CalcSumWithAccuracy\bin\Debug\_10.CalcSumWithAccuracy.pdb
-C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10. CalcSumWithAccuracy\obj\Debug\10. CalcSumWithAccuracy.csprojResolveAssemblyReference.cache
-C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10. CalcSumWithAccuracy\obj\Debug\_10.CalcSumWithAccuracy.exe
-C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\10. CalcSumWithAccuracy\obj\Debug\_10.CalcSumWithAccuracy.pdb

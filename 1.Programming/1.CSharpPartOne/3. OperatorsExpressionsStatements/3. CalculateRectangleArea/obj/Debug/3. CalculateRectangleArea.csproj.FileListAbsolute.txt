@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\3. CalculateRectangleArea\bin\Debug\_3.CalculateRectangleArea.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\3. CalculateRectangleArea\bin\Debug\_3.CalculateRectangleArea.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\3. CalculateRectangleArea\bin\Debug\_3.CalculateRectangleArea.pdb
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\3. CalculateRectangleArea\obj\Debug\_3.CalculateRectangleArea.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\3. CalculateRectangleArea\obj\Debug\_3.CalculateRectangleArea.pdb

@@ -1,9 +1,0 @@
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Bittris\bin\Debug\Bittris.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Bittris\bin\Debug\Bittris.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Bittris\bin\Debug\Bittris.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Bittris\obj\Debug\Bittris.csprojResolveAssemblyReference.cache
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Bittris\obj\Debug\Bittris.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Bittris\obj\Debug\Bittris.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\1.CSharpPartOne\8. PractiseExamPart1\Bittris\bin\Debug\Bittris.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\1.CSharpPartOne\8. PractiseExamPart1\Bittris\obj\Debug\Bittris.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\1.CSharpPartOne\8. PractiseExamPart1\Bittris\obj\Debug\Bittris.pdb

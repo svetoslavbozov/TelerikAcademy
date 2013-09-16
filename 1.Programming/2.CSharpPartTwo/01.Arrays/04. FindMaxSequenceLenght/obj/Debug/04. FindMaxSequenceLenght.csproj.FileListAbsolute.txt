@@ -1,8 +1,0 @@
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\bin\Debug\_04.FindMaxSequenceLenght.exe.config
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\bin\Debug\_04.FindMaxSequenceLenght.exe
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\bin\Debug\_04.FindMaxSequenceLenght.pdb
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\obj\Debug\_04.FindMaxSequenceLenght.exe
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\obj\Debug\_04.FindMaxSequenceLenght.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\bin\Debug\_04.FindMaxSequenceLenght.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\obj\Debug\_04.FindMaxSequenceLenght.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\04. FindMaxSequenceLenght\obj\Debug\_04.FindMaxSequenceLenght.pdb

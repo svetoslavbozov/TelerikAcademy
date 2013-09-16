@@ -1,9 +1,0 @@
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SandGlass\bin\Debug\SandGlass.exe.config
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SandGlass\bin\Debug\SandGlass.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SandGlass\bin\Debug\SandGlass.pdb
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SandGlass\obj\Debug\SandGlass.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SandGlass\obj\Debug\SandGlass.pdb
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SandGlass\obj\Debug\SandGlass.csprojResolveAssemblyReference.cache
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\SandGlass\bin\Debug\SandGlass.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\SandGlass\obj\Debug\SandGlass.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\SandGlass\obj\Debug\SandGlass.pdb

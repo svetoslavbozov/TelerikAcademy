@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\11. SpellNumbers\bin\Debug\_11.SpellNumbers.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\11. SpellNumbers\bin\Debug\_11.SpellNumbers.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\11. SpellNumbers\bin\Debug\_11.SpellNumbers.pdb
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\11. SpellNumbers\obj\Debug\_11.SpellNumbers.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\11. SpellNumbers\obj\Debug\_11.SpellNumbers.pdb

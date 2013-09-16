@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\13. SwitchBits\bin\Debug\_13.SwitchBits.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\13. SwitchBits\bin\Debug\_13.SwitchBits.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\13. SwitchBits\bin\Debug\_13.SwitchBits.pdb
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\13. SwitchBits\obj\Debug\_13.SwitchBits.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\13. SwitchBits\obj\Debug\_13.SwitchBits.pdb

@@ -1,9 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\ForestRoad\bin\Debug\ForestRoad.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\ForestRoad\bin\Debug\ForestRoad.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\ForestRoad\bin\Debug\ForestRoad.pdb
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\ForestRoad\obj\Debug\ForestRoad.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\ForestRoad\obj\Debug\ForestRoad.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\ForestRoad\obj\Debug\ForestRoad.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\ForestRoad\bin\Debug\ForestRoad.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\ForestRoad\obj\Debug\ForestRoad.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\ForestRoad\obj\Debug\ForestRoad.pdb

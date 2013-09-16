@@ -1,9 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\MissCat2011\bin\Debug\MissCat2011.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\MissCat2011\bin\Debug\MissCat2011.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\MissCat2011\bin\Debug\MissCat2011.pdb
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\MissCat2011\obj\Debug\MissCat2011.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\MissCat2011\obj\Debug\MissCat2011.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\MissCat2011\obj\Debug\MissCat2011.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\MissCat2011\bin\Debug\MissCat2011.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\MissCat2011\obj\Debug\MissCat2011.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\MissCat2011\obj\Debug\MissCat2011.pdb

@@ -1,6 +1,0 @@
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\07. SelectionSortAlgorithm\bin\Debug\_07.SelectionSortAlgorithm.exe.config
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\07. SelectionSortAlgorithm\bin\Debug\_07.SelectionSortAlgorithm.exe
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\07. SelectionSortAlgorithm\bin\Debug\_07.SelectionSortAlgorithm.pdb
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\07. SelectionSortAlgorithm\obj\Debug\_07.SelectionSortAlgorithm.exe
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\07. SelectionSortAlgorithm\obj\Debug\_07.SelectionSortAlgorithm.pdb
-C:\Users\admin\Documents\Visual Studio 2012\Projects\TelerikAcademy\1. Programming\2. CSharpPartTwo\01. Arrays\07. SelectionSortAlgorithm\obj\Debug\07. SelectionSortAlgorithm.csprojResolveAssemblyReference.cache

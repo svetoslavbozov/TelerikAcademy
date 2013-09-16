@@ -1,9 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SubsetSums\bin\Debug\SubsetSums.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SubsetSums\bin\Debug\SubsetSums.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SubsetSums\bin\Debug\SubsetSums.pdb
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SubsetSums\obj\Debug\SubsetSums.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SubsetSums\obj\Debug\SubsetSums.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\SubsetSums\obj\Debug\SubsetSums.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\SubsetSums\bin\Debug\SubsetSums.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\SubsetSums\obj\Debug\SubsetSums.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\SubsetSums\obj\Debug\SubsetSums.pdb

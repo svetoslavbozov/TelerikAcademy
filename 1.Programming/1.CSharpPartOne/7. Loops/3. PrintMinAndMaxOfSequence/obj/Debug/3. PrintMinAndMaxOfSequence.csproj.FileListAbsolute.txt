@@ -1,5 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\3. PrintMinAndMaxOfSequence\bin\Debug\_3.PrintMinAndMaxOfSequence.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\3. PrintMinAndMaxOfSequence\bin\Debug\_3.PrintMinAndMaxOfSequence.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\3. PrintMinAndMaxOfSequence\bin\Debug\_3.PrintMinAndMaxOfSequence.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\3. PrintMinAndMaxOfSequence\obj\Debug\_3.PrintMinAndMaxOfSequence.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\3. PrintMinAndMaxOfSequence\obj\Debug\_3.PrintMinAndMaxOfSequence.pdb

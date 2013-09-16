@@ -1,8 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
-c:\users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

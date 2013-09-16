@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\14. SwitchSpecifiedNumberOfBits\bin\Debug\_14.SwitchSpecifiedNumberOfBits.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\14. SwitchSpecifiedNumberOfBits\bin\Debug\_14.SwitchSpecifiedNumberOfBits.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\14. SwitchSpecifiedNumberOfBits\bin\Debug\_14.SwitchSpecifiedNumberOfBits.pdb
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\14. SwitchSpecifiedNumberOfBits\obj\Debug\_14.SwitchSpecifiedNumberOfBits.exe
-c:\users\admin\documents\visual studio 2012\Projects\OperatorsExpressionsStatements\14. SwitchSpecifiedNumberOfBits\obj\Debug\_14.SwitchSpecifiedNumberOfBits.pdb

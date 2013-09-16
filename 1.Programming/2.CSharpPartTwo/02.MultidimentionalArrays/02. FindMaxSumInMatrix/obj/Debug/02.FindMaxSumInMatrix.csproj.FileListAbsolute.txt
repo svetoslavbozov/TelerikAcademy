@@ -1,3 +1,0 @@
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\02. FindMaxSumInMatrix\bin\Debug\_02.FindMaxSumInMatrix.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\02. FindMaxSumInMatrix\obj\Debug\_02.FindMaxSumInMatrix.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\02. FindMaxSumInMatrix\obj\Debug\_02.FindMaxSumInMatrix.pdb

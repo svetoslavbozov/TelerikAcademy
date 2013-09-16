@@ -1,9 +1,0 @@
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\FallDown\bin\Debug\FallDown.exe.config
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\FallDown\bin\Debug\FallDown.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\FallDown\bin\Debug\FallDown.pdb
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\FallDown\obj\Debug\FallDown.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\FallDown\obj\Debug\FallDown.pdb
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\FallDown\obj\Debug\FallDown.csprojResolveAssemblyReference.cache
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\FallDown\bin\Debug\FallDown.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\FallDown\obj\Debug\FallDown.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\FallDown\obj\Debug\FallDown.pdb

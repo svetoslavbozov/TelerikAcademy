@@ -1,6 +1,0 @@
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.csprojResolveAssemblyReference.cache
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\2.CSharpPartTwo\02.MultidimentionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.pdb

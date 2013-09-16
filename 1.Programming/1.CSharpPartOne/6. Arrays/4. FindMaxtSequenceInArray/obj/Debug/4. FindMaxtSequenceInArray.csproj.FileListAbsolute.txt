@@ -1,5 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\4. FindMaxtSequenceInArray\bin\Debug\_4.FindMaxtSequenceInArray.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\4. FindMaxtSequenceInArray\bin\Debug\_4.FindMaxtSequenceInArray.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\4. FindMaxtSequenceInArray\bin\Debug\_4.FindMaxtSequenceInArray.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\4. FindMaxtSequenceInArray\obj\Debug\_4.FindMaxtSequenceInArray.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\4. FindMaxtSequenceInArray\obj\Debug\_4.FindMaxtSequenceInArray.pdb

@@ -1,9 +1,0 @@
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Tribonacci\bin\Debug\Tribonacci.exe.config
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Tribonacci\bin\Debug\Tribonacci.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Tribonacci\bin\Debug\Tribonacci.pdb
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Tribonacci\obj\Debug\Tribonacci.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\Tribonacci\obj\Debug\Tribonacci.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Tribonacci\bin\Debug\Tribonacci.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Tribonacci\obj\Debug\Tribonacci.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\Tribonacci\obj\Debug\Tribonacci.pdb

@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\4. PrintNumbers\bin\Debug\_4.PrintNumbers.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\4. PrintNumbers\bin\Debug\_4.PrintNumbers.exe
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\4. PrintNumbers\bin\Debug\_4.PrintNumbers.pdb
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\4. PrintNumbers\obj\Debug\_4.PrintNumbers.exe
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\4. PrintNumbers\obj\Debug\_4.PrintNumbers.pdb

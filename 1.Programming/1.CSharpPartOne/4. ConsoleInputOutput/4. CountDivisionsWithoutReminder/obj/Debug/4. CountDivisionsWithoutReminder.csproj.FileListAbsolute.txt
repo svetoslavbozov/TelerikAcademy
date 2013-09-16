@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\4. CountDivisionsWithoutReminder\bin\Debug\_4.CountDivisionsWithoutReminder.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\4. CountDivisionsWithoutReminder\bin\Debug\_4.CountDivisionsWithoutReminder.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\4. CountDivisionsWithoutReminder\bin\Debug\_4.CountDivisionsWithoutReminder.pdb
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\4. CountDivisionsWithoutReminder\obj\Debug\_4.CountDivisionsWithoutReminder.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\4. CountDivisionsWithoutReminder\obj\Debug\_4.CountDivisionsWithoutReminder.pdb

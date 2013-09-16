@@ -1,5 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\10. CalcCatalanNumber\bin\Debug\_10.CalcCatalanNumber.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\10. CalcCatalanNumber\bin\Debug\_10.CalcCatalanNumber.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\10. CalcCatalanNumber\bin\Debug\_10.CalcCatalanNumber.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\10. CalcCatalanNumber\obj\Debug\_10.CalcCatalanNumber.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\10. CalcCatalanNumber\obj\Debug\_10.CalcCatalanNumber.pdb

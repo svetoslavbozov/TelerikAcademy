@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\4. SortNumbersDescending\bin\Debug\_4.SortNumbersDescending.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\4. SortNumbersDescending\bin\Debug\_4.SortNumbersDescending.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\4. SortNumbersDescending\bin\Debug\_4.SortNumbersDescending.pdb
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\4. SortNumbersDescending\obj\Debug\4. SortNumbersDescending.csprojResolveAssemblyReference.cache
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\4. SortNumbersDescending\obj\Debug\_4.SortNumbersDescending.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConditionalStatements\4. SortNumbersDescending\obj\Debug\_4.SortNumbersDescending.pdb

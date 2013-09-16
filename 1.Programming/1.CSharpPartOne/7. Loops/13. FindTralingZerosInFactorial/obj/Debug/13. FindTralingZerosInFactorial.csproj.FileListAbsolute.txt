@@ -1,5 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\13. FindTralingZerosInFactorial\bin\Debug\_13.FindTralingZerosInFactorial.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\13. FindTralingZerosInFactorial\bin\Debug\_13.FindTralingZerosInFactorial.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\13. FindTralingZerosInFactorial\bin\Debug\_13.FindTralingZerosInFactorial.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\13. FindTralingZerosInFactorial\obj\Debug\_13.FindTralingZerosInFactorial.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Loops\13. FindTralingZerosInFactorial\obj\Debug\_13.FindTralingZerosInFactorial.pdb

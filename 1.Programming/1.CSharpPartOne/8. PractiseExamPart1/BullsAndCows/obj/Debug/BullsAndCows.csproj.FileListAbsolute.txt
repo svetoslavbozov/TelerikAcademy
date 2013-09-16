@@ -1,1 +1,0 @@
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1.Programming\1.CSharpPartOne\8. PractiseExamPart1\BullsAndCows\bin\Debug\BullsAndCows.exe.config

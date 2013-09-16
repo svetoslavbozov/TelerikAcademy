@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\7. DeclareAndConcatenateStrings\bin\Debug\_7.DeclareAndConcatenateStrings.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\7. DeclareAndConcatenateStrings\bin\Debug\_7.DeclareAndConcatenateStrings.exe
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\7. DeclareAndConcatenateStrings\bin\Debug\_7.DeclareAndConcatenateStrings.pdb
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\7. DeclareAndConcatenateStrings\obj\Debug\_7.DeclareAndConcatenateStrings.exe
-c:\users\admin\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\7. DeclareAndConcatenateStrings\obj\Debug\_7.DeclareAndConcatenateStrings.pdb

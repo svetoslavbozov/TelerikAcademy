@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\12. PrintYourAgeAfter10Years\bin\Debug\_12.PrintYourAgeAfter10Years.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\12. PrintYourAgeAfter10Years\bin\Debug\_12.PrintYourAgeAfter10Years.exe
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\12. PrintYourAgeAfter10Years\bin\Debug\_12.PrintYourAgeAfter10Years.pdb
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\12. PrintYourAgeAfter10Years\obj\Debug\_12.PrintYourAgeAfter10Years.exe
-c:\users\admin\documents\visual studio 2012\Projects\IntroductionToPrograming\12. PrintYourAgeAfter10Years\obj\Debug\_12.PrintYourAgeAfter10Years.pdb

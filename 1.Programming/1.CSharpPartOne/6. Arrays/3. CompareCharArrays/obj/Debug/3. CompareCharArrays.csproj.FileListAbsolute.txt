@@ -1,5 +1,0 @@
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\3. CompareCharArrays\bin\Debug\_3.CompareCharArrays.exe.config
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\3. CompareCharArrays\bin\Debug\_3.CompareCharArrays.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\3. CompareCharArrays\bin\Debug\_3.CompareCharArrays.pdb
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\3. CompareCharArrays\obj\Debug\_3.CompareCharArrays.exe
-c:\Users\admin\documents\visual studio 2012\Projects\Arrays\3. CompareCharArrays\obj\Debug\_3.CompareCharArrays.pdb

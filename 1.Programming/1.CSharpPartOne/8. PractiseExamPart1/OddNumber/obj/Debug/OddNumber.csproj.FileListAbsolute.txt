@@ -1,8 +1,0 @@
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\OddNumber\bin\Debug\OddNumber.exe.config
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\OddNumber\bin\Debug\OddNumber.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\OddNumber\bin\Debug\OddNumber.pdb
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\OddNumber\obj\Debug\OddNumber.exe
-C:\Users\admin\documents\visual studio 2012\Projects\PractiseExamPart1\OddNumber\obj\Debug\OddNumber.pdb
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\OddNumber\bin\Debug\OddNumber.exe.config
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\OddNumber\obj\Debug\OddNumber.exe
-C:\Users\admin-pc\Documents\Visual Studio 2013\Projects\TelerikAcademy\1. Programming\1. CSharpPartOne\8. PractiseExamPart1\OddNumber\obj\Debug\OddNumber.pdb

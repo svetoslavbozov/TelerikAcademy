@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\3. EnterCompanyInformation\bin\Debug\_3.EnterCompanyInformation.exe.config
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\3. EnterCompanyInformation\bin\Debug\_3.EnterCompanyInformation.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\3. EnterCompanyInformation\bin\Debug\_3.EnterCompanyInformation.pdb
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\3. EnterCompanyInformation\obj\Debug\_3.EnterCompanyInformation.exe
-c:\users\admin\documents\visual studio 2012\Projects\ConsoleInputOutput\3. EnterCompanyInformation\obj\Debug\_3.EnterCompanyInformation.pdb
