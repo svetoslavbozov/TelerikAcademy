@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.AnimalsClassTree
+﻿public class Dog : Animal
 {
-    class Dog
+    public Dog()
     {
+
+    }
+    public Dog(string name, string sex, int age)
+        : base(name, sex, age)
+    {
+
+    }
+    public override void MakeSound()
+    {
+        System.Console.WriteLine("bark bark");
     }
 }
+

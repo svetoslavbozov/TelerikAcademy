@@ -1,12 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.SchoolClassTree
+public class Student : People, ICommentable
 {
-    class Sttudent
+    private int classNumber;
+    private string comments;
+
+    public string Comments
     {
+        get { return comments; }
+        set { comments = value; }
     }
+    
+    public int ClassNumber
+    {
+        get { return classNumber; }
+        set { classNumber = value; }
+    }
+
+    public Student()
+    {
+
+    }
+    public Student(string name) : base(name)
+    {
+
+    }
+
+    public void AddComment(string comment)
+    {
+        this.Comments += comment + Environment.NewLine;
+    }
+    
 }

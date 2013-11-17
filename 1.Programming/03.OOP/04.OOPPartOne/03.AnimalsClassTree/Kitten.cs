@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.AnimalsClassTree
+﻿public class Kitten : Cat
 {
-    class Kitten
+    public Kitten()
+    {
+
+    }
+    public Kitten(string name, int age) : base(name,"female", age)
     {
     }
 }
+

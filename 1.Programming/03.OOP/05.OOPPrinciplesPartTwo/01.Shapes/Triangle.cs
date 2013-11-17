@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Shapes
+﻿public class Triangle : Shape
 {
-    class Triangle
+    public Triangle(int width, int height)
+        : base(width, height)
     {
+
+    }
+
+    public override double CalculateSurface()
+    {
+        return (this.Width * this.Height) / (double)2;
     }
 }

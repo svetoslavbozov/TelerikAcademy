@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>d8f1df97-ad34-4319-8b46-68ab33a3b719</ProjectGuid>
+    <ProjectGuid>{058BE109-6361-464F-B2BA-30279C421EC4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_07.ExecuteMethodInInterval</RootNamespace>
-    <AssemblyName>_07.ExecuteMethodInInterval</AssemblyName>
+    <AssemblyName>07.ExecuteMethodInInterval</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

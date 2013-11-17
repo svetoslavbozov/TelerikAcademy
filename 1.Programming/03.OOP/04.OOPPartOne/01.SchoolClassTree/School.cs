@@ -1,12 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace _01.SchoolClassTree
+public class School
 {
-    class School
+    private List<Student> students;
+    private List<Class> classes;
+
+    public List<Class> MyProperty
     {
+        get { return classes; }
+        set { classes = value; }
+    }
+
+    public List<Student> Students
+    {
+        get { return students; }
+        set { students = value; }
+    }
+    public School()
+    {
+
     }
 }
+

@@ -1,12 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _01.SchoolClassTree
+public class Teacher : People , ICommentable
 {
-    class Teacher
+    private List<Discipline> disciplines;
+    private string comments;
+
+    public string Comments
     {
+        get { return comments; }
+        set { comments = value; }
+    }
+    
+    public List<Discipline> Disciplines
+    {
+        get { return disciplines; }
+        set { disciplines = value; }
+    }
+
+    public Teacher()
+    {
+
+    }
+
+    public Teacher(string name) : base(name)
+    {
+
+    }
+
+    public void AddComment(string comment)
+    {
+        this.Comments += comment + Environment.NewLine;
     }
 }
+

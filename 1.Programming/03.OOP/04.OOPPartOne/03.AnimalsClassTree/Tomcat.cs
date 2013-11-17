@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.AnimalsClassTree
+﻿public class Tomcat : Cat
 {
-    class Tomcat
+    public Tomcat()
+    {
+    }
+
+    public Tomcat(string name, int age) : base(name,"male", age)
     {
     }
 }
+

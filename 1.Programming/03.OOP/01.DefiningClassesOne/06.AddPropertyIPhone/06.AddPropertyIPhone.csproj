@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>e23bc561-4fb9-4e19-854f-4132236bb3e8</ProjectGuid>
+    <ProjectGuid>{E53854B5-04F7-4056-8A2B-BF566DEBD4EA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_06.AddPropertyIPhone</RootNamespace>
-    <AssemblyName>_06.AddPropertyIPhone</AssemblyName>
+    <AssemblyName>06.AddPropertyIPhone</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GSM.cs" />
+    <Compile Include="PhoneBattery.cs" />
+    <Compile Include="PhoneDisplay.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

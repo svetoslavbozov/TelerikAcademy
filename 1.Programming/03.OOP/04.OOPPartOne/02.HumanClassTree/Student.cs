@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.HumanClassTree
+﻿public class Student : Human
 {
-    class Student
+    private int grade;
+
+    public int Grade
     {
+        get { return grade; }
+        set { grade = value; }
+    }
+    public Student()
+    {
+
     }
 }
+

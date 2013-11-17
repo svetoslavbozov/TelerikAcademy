@@ -10,6 +10,13 @@ class GSM
     private PhoneBattery battery = new PhoneBattery();
     private PhoneDisplay display = new PhoneDisplay();
 
+    private static GSM iPhone4S = new GSM("IPhone", "Apple");
+
+    public static GSM IPhone
+    {
+        get { return iPhone4S; }
+    }
+
     public PhoneDisplay Display
     {
         get { return display; }

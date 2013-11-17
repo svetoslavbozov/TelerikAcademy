@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>28ec0888-0382-426a-92c1-d5265bd141d7</ProjectGuid>
+    <ProjectGuid>{B5FF3DE1-5746-4C66-B0CC-04102E8695CE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_07.WriteClassGSMTest</RootNamespace>
-    <AssemblyName>_07.WriteClassGSMTest</AssemblyName>
+    <AssemblyName>07.WriteClassGSMTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="GSM.cs" />
+    <Compile Include="PhoneBattery.cs" />
+    <Compile Include="PhoneDisplay.cs" />
+    <Compile Include="GSMTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Bank
+﻿public abstract class Customer
 {
-    class Customer
+    private string name;
+
+    public string Name
     {
+        get { return name; }
+        set { name = value; }
     }
+
+    public Customer(string name)
+    {
+        this.Name = name;
+    }
+    
 }
