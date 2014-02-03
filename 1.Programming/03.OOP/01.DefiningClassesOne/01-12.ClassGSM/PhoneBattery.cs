@@ -12,6 +12,28 @@ public class PhoneBattery
     private int? hoursIdle;
     private BatteryType? batteryType = null;
 
+    public PhoneBattery()
+    {
+    }
+
+    public PhoneBattery(string model)
+    {
+        this.model = model;
+    }
+
+    public PhoneBattery(string model, int hoursTalk)
+    {
+        this.model = model;
+        this.hoursTalk = hoursTalk;
+    }
+
+    public PhoneBattery(string model, int hoursTalk, int hoursIdle)
+    {
+        this.model = model;
+        this.hoursTalk = hoursTalk;
+        this.hoursIdle = hoursIdle;
+    }
+
     public BatteryType? BatteryType
     {
         get { return this.batteryType; }
@@ -23,34 +45,17 @@ public class PhoneBattery
         get { return this.model; }
         set { this.model = value; } 
     }
+
     public int? HoursTalk
     {
         get { return this.hoursTalk; }
         set { this.hoursTalk = value; }
     }
+
     public int? HoursIdle
     {
         get { return this.hoursIdle; }
         set { this.hoursIdle = value; }
-    }
-    public PhoneBattery()
-    {
-
-    }
-    public PhoneBattery(string model)
-    {
-        this.model = model;
-    }
-    public PhoneBattery(string model ,int hoursTalk)
-    {
-        this.model = model;
-        this.hoursTalk = hoursTalk;
-    }
-    public PhoneBattery(string model, int hoursTalk, int hoursIdle)
-    {
-        this.model = model;
-        this.hoursTalk = hoursTalk;
-        this.hoursIdle = hoursIdle;
     }
 }
 
